@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite the following works when using this software: "
+authors:
+- family-names: "Rohilla"
+  given-names: "Deepak"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Lisa"
+  given-names: "Mona"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Monte Carlo Simulations of Differential Photometry Observations"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-06-08
+url: "https://github.com/deepakrohilla7/M.Sc_Project"
